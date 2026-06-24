@@ -12,3 +12,6 @@ Simple project created for Git & GitHub task.
 
 ## Author
 Aqsa Asghar
+# Git and GitHub Practice
+
+This repository is created for Git and GitHub task.
